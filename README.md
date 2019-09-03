@@ -1,6 +1,8 @@
 # Albion Killboard Items Preview
 Get items preview on the Albion Killboard when mouse is hover stuff
 
+![preview](https://i.imgur.com/Xa3IHXM.png)
+
 ## How to use
 
 Just copy source of app.js and 
